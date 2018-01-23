@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "body-parser": "*",
     "express": "*",
-    "body-parser": "*"
+    "nodemon": "^1.14.11"
   },
   "repository": {
     "type": "git",
